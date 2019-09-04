@@ -8,6 +8,8 @@ Wouldnt want competitors scraping our FULL backend API, or man in middle attacks
 Probably better way to do this, but for now this will do.
 """
 
+exit(1)
+
 __author__ = 'Inigo Montoya (inigo.montoya@unicornrentals.click)'
 __vcs_id__ = '$Id$'
 __version__ = '$Version$'
